@@ -12,8 +12,6 @@ O desafio consiste em criar a diagramação UML e modelar um iPhone, inspirado n
 - **Aparelho Telefônico:** ligar, atender, iniciarCorreioVoz
 - **Navegador:** exibirPagina, adicionarNovaAba, atualizarPagina
 
-Além disso, você deve criar a classe que representa o iPhone.
-
 ## Diagrama UML
 Abaixo está o diagrama UML que representa o iPhone e suas funcionalidades:
 
