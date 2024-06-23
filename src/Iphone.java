@@ -1,4 +1,8 @@
-package Interfaces;
+
+
+import Interfaces.AparelhoTelefonico;
+import Interfaces.NavegadorInternet;
+import Interfaces.ReprodutorMusical;
 
 public class Iphone implements ReprodutorMusical, AparelhoTelefonico, NavegadorInternet{
 
